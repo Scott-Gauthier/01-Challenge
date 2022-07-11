@@ -19,6 +19,7 @@ partition {
 .main_partition {
     width: 100%;
     height: 100%;
+    min-height: 100%;
 }
 /*Header section*/
 header {
@@ -72,6 +73,7 @@ hero {
     width: 95%;
     padding: 20px;
     height: 33%;
+    min-height: 250px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
