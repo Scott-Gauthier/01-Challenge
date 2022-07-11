@@ -1,5 +1,7 @@
 # 01-Challenge
 
+deployed https://scott-gauthier.github.io/01-Challenge/
+
 ## User Story
 
 ```
