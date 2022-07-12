@@ -26,8 +26,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-See ./01-html-css-git-homework-demo for mockup example.
-
 Grading
 
 This Challenge is graded based on the following criteria:
@@ -61,3 +59,7 @@ Repository follows best practices for class/id naming conventions, indentation, 
 Repository contains multiple descriptive commit messages.
 Repository contains a quality README file with description, screenshot, and link to deployed application.
 ```
+
+See below for mockup example.
+
+![Mockup](./01-html-css-git-homework-demo.png)
